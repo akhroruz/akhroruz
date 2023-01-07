@@ -67,8 +67,8 @@ A passionate backend developer from Uzbekistan
 
 [![Ahror's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akhroruz&theme=high-contrast)](https://github.com/akhroruz/github-readme-activity-graph)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@kodernet/f9680f48-a217-4962-ad92-07ce86231466.svg"></embed></figure>
+
 ## I'm currently working on
 
 - My old projects
