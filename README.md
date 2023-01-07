@@ -7,7 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://t.me/ahrorpro" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="ahror.pro" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/ahrorbek.pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahror.pro" height="30" width="40" /></a>
+  
 <a href="https://www.hackerrank.com/uzkod136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uzkod136" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kodernet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kodernet" height="30" width="40" /></a>
 </p>
