@@ -71,7 +71,7 @@ A passionate backend developer from Uzbekistan
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhroruz&show_icons=true&locale=en" alt="akhroruz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhroruz&" alt="akhroruz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhroruz" alt="akhroruz" /></p>
 
 [![Ahror's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akhroruz&theme=high-contrast)](https://github.com/akhroruz/github-readme-activity-graph)
 
