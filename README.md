@@ -66,7 +66,7 @@ A passionate backend developer from Uzbekistan
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SanjarbekSaminjonov?theme=nord&font=Allerta&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kodernet?theme=nord&font=Allerta&ext=activity)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhroruz&show_icons=true&locale=en&layout=compact" alt="akhroruz" /></p>
 
